@@ -1,16 +1,11 @@
 <h1 align="center">Hi 👋, I'm Halia Shevchyk</h1>
 <h3 align="center">Full-Stack Developer</h3> 
 
+<p align="center">
 [![Halia profile views](https://u8views.com/api/v1/github/profiles/91005548/views/day-week-month-total-count.svg)](https://u8views.com/github/Haliaa)
 
 ![Banner](https://drive.google.com/uc?export=view&id=1A9JRWPuKhBcj1phdP_7Pi2ZbWRhi2GsW)
-
-- 🌱 I am currently learning and practising **Nest.js** <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Blue%20Heart.png" alt="Blue Heart" width="25" height="25" />
-
-- 📫 How to reach me: **galasevcik@gmail.com**
-
-- ⚡ Fun fact:  
-  **I’m interested in IT technologies 💻, sports 🏓 🏸 🎳, mountains ⛰ and camping 🏕** <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Sunglasses.png" alt="Smiling Face with Sunglasses" width="25" height="25" />
+</p>
 
 ---
 
