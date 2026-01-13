@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Halia Shevchyk</h1>
 <h3 align="center">Full-Stack Developer</h3> 
 
-<p align="center">
 [![Halia profile views](https://u8views.com/api/v1/github/profiles/91005548/views/day-week-month-total-count.svg)](https://u8views.com/github/Haliaa)
 
 ![Banner](https://drive.google.com/uc?export=view&id=1A9JRWPuKhBcj1phdP_7Pi2ZbWRhi2GsW)
-</p>
 
 ---
 
