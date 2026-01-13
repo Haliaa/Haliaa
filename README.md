@@ -24,8 +24,5 @@
 
 <h2 align="center">Languages</h2>
 
-| 🇺🇦 **Ukrainian** — Native | 🇬🇧 **English** — Upper-Intermediate |
+| 🇺🇦 **Ukrainian** — Native | 🇬🇧 **English** — Upper-Intermediate | 🇪🇸 **Spanish** — Elementary |
 |---------------------------|-------------------------------|
-| 🇪🇸 **Spanish** — Elementary |
-
----
