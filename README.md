@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Halia Shevchyk</h1>
 <h3 align="center">Full-Stack Developer</h3> 
 
-[![Halia Shevchyk profile views](https://u8views.com/api/v1/github/profiles/Haliaa/views/day-week-month-total-count.svg)](https://u8views.com/github/Haliaa)
+[![Halia profile views](https://u8views.com/api/v1/github/profiles/91005548/views/day-week-month-total-count.svg)](https://u8views.com/github/Haliaa)
 
 ![Banner](https://drive.google.com/uc?export=view&id=18s1PXc-ewS50raCwUa0XwEIe2COG1Xyx)
 
@@ -17,7 +17,7 @@
 <h3 align="left">Connect with me:</h3>
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/haliaholy)
-[![Gmail](https://img.shields.io/badge/Gmail-hellogmail@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:galasevcik@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-galasevcik%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:galasevcik@gmail.com)
 
 ---
 
