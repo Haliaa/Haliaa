@@ -5,8 +5,6 @@
 
 ![Banner](https://drive.google.com/uc?export=view&id=1sAsns3FriL4abiDH1STB7pZcNepeZzoo)
 
-<h2 align="center">Languages</h2>
-
 <h2 align="center">My skills</h2>
 
 <h3 align="left">Frontend:</h3>
@@ -24,6 +22,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=git,github,vscode,bash,npm,yarn,postman,cursorai)](https://skillicons.dev)
 
+<h2 align="center">Languages</h2>
 
 | 🇺🇦 **Ukrainian** — Native | 🇬🇧 **English** — Upper-Intermediate |
 |---------------------------|-------------------------------|
