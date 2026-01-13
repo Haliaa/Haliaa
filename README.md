@@ -45,7 +45,3 @@
 <h3 align="left">Development Tools:</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=git,github,vscode,bash,npm,yarn,postman,cursorai)](https://skillicons.dev)
-
----
-
-[![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Haliaa&custom_title=My%20Activity&hide_border=true&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
