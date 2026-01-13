@@ -3,7 +3,7 @@
 
 [![Halia profile views](https://u8views.com/api/v1/github/profiles/91005548/views/day-week-month-total-count.svg)](https://u8views.com/github/Haliaa)
 
-![Banner](https://drive.google.com/uc?export=view&id=18s1PXc-ewS50raCwUa0XwEIe2COG1Xyx)
+![Banner](https://drive.google.com/uc?export=view&id=1eXf5sam3m62oMsEhtG_dOJ02SALvQbKM)
 
 - 🌱 I am currently learning and practising **Nest.js** <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Blue%20Heart.png" alt="Blue Heart" width="25" height="25" />
 
